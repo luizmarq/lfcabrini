@@ -1,6 +1,7 @@
 <h1>Hi I'm Fernando Cabrini!</h1>
 
 <div>
+  <a href="https://www.linkedin.com/in/fernando-cabrini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lfcabrini&show_icons=true&theme=onedark" />
 </div>
 
