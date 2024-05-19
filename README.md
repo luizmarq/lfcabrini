@@ -1,5 +1,8 @@
 <h1>Hi I'm Fernando Cabrini!</h1>
 
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lfcabrini&show_icons=true&theme=onedark" />
+</div>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lfcabrini&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 #### My Skills:
