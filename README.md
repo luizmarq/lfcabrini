@@ -1,5 +1,10 @@
 <h1>Hi I'm Fernando Cabrini!</h1>
 
+<div align="center">
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lfcabrini&theme=dark&hide_border=true&border_radius=12.5&locale=pt_BR)](https://git.io/streak-stats)
+</div>
+
+
 #### My Skills:
 <div style="display: inline_block"><br>
   <img align="center" alt="Cabrini-PY" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
