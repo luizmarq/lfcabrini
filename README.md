@@ -13,7 +13,7 @@
   <a href="mailto:contato.lfercabrini@gmail.com"> <img align="center" alt="Cabrini-gmail" height="60" width="60" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2856fdde-3200-4398-8290-a0e45d3a35a0"> </a>
 </div>
 <br><br>
-<div>
+<div align="center">
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lfcabrini&theme=onedark&hide_border=true&border_radius=12.5&locale=pt_BR)](https://git.io/streak-stats)
 
