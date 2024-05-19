@@ -1,8 +1,15 @@
 <h1>Hi I'm Fernando Cabrini!</h1>
 
 <div>
-  <a href="https://www.linkedin.com/in/fernando-cabrini">
+  <a href="https://www.linkedin.com/in/fernando-cabrini" target="_blank">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lfcabrini&show_icons=true&theme=onedark" />
+</div>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Cabrini-PY" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+          
+
+  
 </div>
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lfcabrini&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) -->
