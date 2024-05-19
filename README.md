@@ -10,9 +10,6 @@
 
 #### Contacts:
 <div style="display: inline_block"><br>
-  <a href="https://www.linkedin.com/in/fernando-cabrini" target="_blank"><img align="center" alt="Cabrini-LINKEDIN" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
-  <a href="mailto:contato.lfercabrini@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-  
-            <img src="" /      
+  <a href="https://www.linkedin.com/in/fernando-cabrini" target="_blank"><img align="center" alt="Cabrini-LINKEDIN" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /> </a>
+  <a href="mailto:contato.lfercabrini@gmail.com" target="_blank"><img align="center" alt="Cabrini-GMAIL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" /> </a> 
 </div>
