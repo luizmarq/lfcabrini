@@ -1,6 +1,6 @@
 <h1>Hi I'm Fernando Cabrini!</h1>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lfcabrini)](https://github.com/anuraghazra/github-readme-stats&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lfcabrini)](https://github.com/anuraghazra/github-readme-stats&theme=highcontrast)
 
 #### My Skills:
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
