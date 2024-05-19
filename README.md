@@ -1,7 +1,9 @@
 <h1>Hi I'm Fernando Cabrini!</h1>
 
 <div align="center">
+  
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lfcabrini&theme=dark&hide_border=true&border_radius=12.5&locale=pt_BR)](https://git.io/streak-stats)
+
 </div>
 
 
